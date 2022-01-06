@@ -3,8 +3,11 @@
 
 # In[1]:
 
+# 폰트경로 - 'C:/Users/JYP/Documents/pandas/dataset/
 
+import matplotlib.pyplot as plt
 import platform
+
 if platform.system() == 'Darwin': #맥
         plt.rc('font', family='AppleGothic') 
 elif platform.system() == 'Windows': #윈도우
