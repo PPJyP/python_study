@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "C:\\ProgramData\\Anaconda3\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "\uc8fc\ud53c\ud130\uc5d0 \ud45c\uc2dc\ud560 kernel \uc774\ub984",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
